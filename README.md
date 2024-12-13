@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mpkdon
-- 👀 I’m interested in learning something new
-- 🌱 I’m currently learning web application developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me telegram_id => @Mpkdon_crypto
+- 👋 Hi, I’m PraveenKumar
+- 👀 I’m interested in learning About Vlsi and Micro-controller Architecture
+- 🌱 I’m currently learning Verilog,System Verilog,Digital Circuits
+- 📫 How to reach me Linkedin_id => linkedin.com/in/praveenkumar-muralidharan-bbb078205
 
-<!---
-Mpkdon/Mpkdon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
